@@ -3,7 +3,7 @@
 // Did this code successfully run on Leetcode : Yes, https://leetcode.com/problems/unique-paths/
 // Any problem you faced while coding this : No
 
-
+// This is a solution for Top-Down approach.
 class Solution {
     int[][] memo;
     public int uniquePaths(int m, int n) {
